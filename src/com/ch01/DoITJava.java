@@ -9,6 +9,7 @@ public class DoITJava {
 		System.out.println(100);
 		System.out.println(100.0);
 		System.out.println(false +" "+true);
+		System.out.println("good job");
 	}
 
 }
